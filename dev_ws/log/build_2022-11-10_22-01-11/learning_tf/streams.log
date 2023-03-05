@@ -1,0 +1,24 @@
+[0.914s] Invoking command in '/home/mike/ros2_cool/09-tf/dev_ws/src/learning_tf': PYTHONPATH=/home/mike/ros2_cool/09-tf/dev_ws/install/learning_tf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learning_tf build --build-base /home/mike/ros2_cool/09-tf/dev_ws/build/learning_tf/build install --prefix /home/mike/ros2_cool/09-tf/dev_ws/install/learning_tf --record /home/mike/ros2_cool/09-tf/dev_ws/build/learning_tf/install.log --single-version-externally-managed
+[1.281s] running egg_info
+[1.282s] writing ../../build/learning_tf/learning_tf.egg-info/PKG-INFO
+[1.283s] writing dependency_links to ../../build/learning_tf/learning_tf.egg-info/dependency_links.txt
+[1.283s] writing entry points to ../../build/learning_tf/learning_tf.egg-info/entry_points.txt
+[1.283s] writing requirements to ../../build/learning_tf/learning_tf.egg-info/requires.txt
+[1.283s] writing top-level names to ../../build/learning_tf/learning_tf.egg-info/top_level.txt
+[1.287s] reading manifest file '../../build/learning_tf/learning_tf.egg-info/SOURCES.txt'
+[1.288s] writing manifest file '../../build/learning_tf/learning_tf.egg-info/SOURCES.txt'
+[1.291s] running build
+[1.291s] running build_py
+[1.292s] running install
+[1.292s] running install_lib
+[1.295s] running install_data
+[1.296s] running install_egg_info
+[1.297s] removing '/home/mike/ros2_cool/09-tf/dev_ws/install/learning_tf/lib/python3.10/site-packages/learning_tf-0.0.0-py3.10.egg-info' (and everything under it)
+[1.298s] Copying ../../build/learning_tf/learning_tf.egg-info to /home/mike/ros2_cool/09-tf/dev_ws/install/learning_tf/lib/python3.10/site-packages/learning_tf-0.0.0-py3.10.egg-info
+[1.301s] running install_scripts
+[1.327s] Installing static_tf_broadcaster script to /home/mike/ros2_cool/09-tf/dev_ws/install/learning_tf/lib/learning_tf
+[1.328s] Installing tf_listener script to /home/mike/ros2_cool/09-tf/dev_ws/install/learning_tf/lib/learning_tf
+[1.328s] Installing turtle_following script to /home/mike/ros2_cool/09-tf/dev_ws/install/learning_tf/lib/learning_tf
+[1.328s] Installing turtle_tf_broadcaster script to /home/mike/ros2_cool/09-tf/dev_ws/install/learning_tf/lib/learning_tf
+[1.328s] writing list of installed files to '/home/mike/ros2_cool/09-tf/dev_ws/build/learning_tf/install.log'
+[1.369s] Invoked command in '/home/mike/ros2_cool/09-tf/dev_ws/src/learning_tf' returned '0': PYTHONPATH=/home/mike/ros2_cool/09-tf/dev_ws/install/learning_tf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learning_tf build --build-base /home/mike/ros2_cool/09-tf/dev_ws/build/learning_tf/build install --prefix /home/mike/ros2_cool/09-tf/dev_ws/install/learning_tf --record /home/mike/ros2_cool/09-tf/dev_ws/build/learning_tf/install.log --single-version-externally-managed
